@@ -1,0 +1,9 @@
+{
+  "item.mace.mace": "Mace",
+  "item.mace.wind_charge": "Wind Charge",
+  "itemGroup.mace.general": "Mace Mod",
+  "entity.mace.wind_charge": "Wind Charge",
+  "enchantment.mace.density": "Density",
+  "enchantment.mace.breach": "Breach",
+  "enchantment.mace.wind_burst": "Wind Burst"
+}
